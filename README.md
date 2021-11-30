@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm currently learning programming and my goal is to become a backend developer. I'll be posting lots of basic projects showing everything I learn.
 <!--
 **felipro98/felipro98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
