@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently learning and will be posting lots of basic projects showing everything I've done.
+I'm currently learning programming and will be posting projects here. My goal is to become a back-end web developer!
 <!--
 **felipro98/felipro98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
